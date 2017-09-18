@@ -11,12 +11,12 @@
 **internal**:   some functions for image alignment
 
 **test_data**:     test data:
-                   airport.mat   144x176x400  video without camera jitter
-                   t_airport.mat 144x176x400  synthetic transformed video with camera jitter
-                   sidewalk.mat  220x352x400  real-world video with camera jitter
-                   Dummy.mat     59 x 59x100  unaligned face with different illumination
+                   airport.mat   144x176x400  video without camera jitter    
+                   t_airport.mat 144x176x400  synthetic transformed video with camera jitter   
+                   sidewalk.mat  220x352x400  real-world video with camera jitter   
+                   Dummy.mat     59 x 59x100  unaligned face with different illumination  
                    
-all the test data can be downloaded from http://pan.baidu.com/s/1nuGuZqD
+All the test data can be downloaded from http://pan.baidu.com/s/1nuGuZqD
 
 Directly run the testing demo `demo.m` and `demo_t.m` to test OMoGMF and t-OMoGMF,respectively and
 run the testing demo `demo_path.m` with your video image path.
