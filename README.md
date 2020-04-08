@@ -16,7 +16,7 @@
                    sidewalk.mat  220x352x400  real-world video with camera jitter   
                    Dummy.mat     59 x 59x100  unaligned face with different illumination  
                    
-All the test data can be downloaded from http://pan.baidu.com/s/1nuGuZqD  or https://drive.google.com/open?id=16Kx5xsWsL_cFPQNTYZMgqS5rPbetM0qy
+All the test data can be downloaded from [here](http://pan.baidu.com/s/1nuGuZqD)  or here(https://drive.google.com/open?id=16Kx5xsWsL_cFPQNTYZMgqS5rPbetM0qy).
 
 Directly run the testing demo `demo.m` and `demo_t.m` to test OMoGMF and t-OMoGMF,respectively and
 run the testing demo `demo_path.m` with your video image path.
